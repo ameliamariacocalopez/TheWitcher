@@ -11,4 +11,4 @@ Clase TheWitcher con los atributos
 
 **Métodos:**
 * isDeath ()
-* 
+
