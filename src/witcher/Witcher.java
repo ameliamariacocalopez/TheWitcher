@@ -41,4 +41,11 @@ public class Witcher {
 	private int health;
 	private boolean hasSoul;
 	
+	
+	public void recibeDamage(int damage) {
+		health -= damage;
+		if(health<0) health=0;
 }
+}
+	
+
